@@ -1,0 +1,6 @@
+<!--pages/user/login/login.wxml-->
+/* pages/user/login/login.wxss */
+<view class="usermotto">
+  <text class="user-motto">{{motto}}</text>
+  <button class="userinfo-nickname" bindtap="onGetOpenid">登录</button>
+</view>

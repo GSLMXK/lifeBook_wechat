@@ -1,0 +1,17 @@
+{
+  "cloud": true,
+  "pages": [
+    "pages/index/index",
+    "pages/common/bottom/bottom",
+    "pages/user/login/login",
+    "pages/common/top/top",
+    "pages/common/main/main"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "Life Book —— 生活之书",
+    "navigationBarTextStyle": "black"
+  }
+}
